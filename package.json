@@ -1,0 +1,42 @@
+{
+  "name": "nft-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@openzeppelin/contracts": "^5.1.0",
+    "@rainbow-me/rainbowkit": "^2.2.1",
+    "@tanstack/react-query": "^5.62.2",
+    "@tanstack/react-table": "^8.20.5",
+    "axios": "^1.7.9",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.17",
+    "ipfs-http-client": "^60.0.1",
+    "next": "15.0.3",
+    "next-themes": "^0.4.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.3.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.16.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-next": "15.0.3",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "globals": "^15.13.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
