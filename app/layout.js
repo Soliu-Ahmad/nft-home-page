@@ -3,12 +3,6 @@ import './styles/globals.css'
 import Navbar from "./Navbar/Navbar";
 import Footer from "./Footer/Footer";
 import { ThemeProvider } from "next-themes";
-import { Banner } from '@/components';
-
-// import { config } from '@fortawesome/fontawesome-svg-core'
-// import '@fortawesome/fontawesome-svg-core/styles.css'
-// config.autoAddCss = false
-
 
 
 
